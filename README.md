@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar Singh</h1>
 
 <p align="center">
-  <img src="Github-profile.jpeg" width="160" />
+  <img src="Github-profile.jpeg" width="170" />
 </p>
 
 <p align="center">
@@ -48,8 +48,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/power-bi.png" height="48"/>
-  <img src="https://img.icons8.com/color/48/tableau-software.png" height="48"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI" height="48"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" title="Tableau" height="48"/>
 </p>
 
 ---
