@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar Singh</h1>
 
 <p align="center">
-  <img src="Github-profile.jpeg" width="170" />
+  <img src="https://github.com/adityaxletscode.png" width="170" />
 </p>
 
 <p align="center">
@@ -45,11 +45,6 @@
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,postgres,python,java,c,git,linux,aws,tailwind" />
-</p>
-
-<p align="center">
-  <img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI" height="48"/>
-  <img src="https://img.icons8.com/color/48/tableau-software.png" title="Tableau" height="48"/>
 </p>
 
 ---
