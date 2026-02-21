@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaxletscode&label=Profile%20views&color=0e75b6&style=flat" alt="adityaxletscode" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityaxletscode" alt="adityaxletscode" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://aditya-kumar-singh-portfolio.netlify.app/](https://aditya-kumar-singh-portfolio.netlify.app/)
 
 - 📫 How to reach me **eaditya2003@gmail.com**
