@@ -9,6 +9,12 @@
 </p>
 
 <p align="center">
+  <a href="https://aditya-kumar-singh-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=adityaxletscode&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
@@ -48,4 +54,12 @@
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adityaxletscode&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=adityaxletscode&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adityaxletscode/adityaxletscode/output/github-contribution-grid-snake-dark.svg" />
 </p>
