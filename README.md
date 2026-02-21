@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Aditya%20Kumar%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Aditya%20Kumar%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -7,7 +7,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Data+Analytics+Enthusiast;DSA+Lover;Building+Scalable+Web+Apps;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Data+Analytics+Enthusiast;DSA+Lover;Building+Scalable+Web+Apps;Always+Learning+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adityaxletscode&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
@@ -44,7 +48,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityaxletscode&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adityaxletscode&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
   <img src="https://streak-stats.demolab.com?user=adityaxletscode&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
@@ -54,14 +58,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adityaxletscode/adityaxletscode/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
 </p>
