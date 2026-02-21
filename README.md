@@ -4,9 +4,9 @@
   <img src="https://github.com/adityaxletscode.png" width="150" />
 </p>
 
-<h3 align="center">
-Full Stack Developer | Data Analytics Enthusiast | DSA Lover
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Data+Analytics+Enthusiast;DSA+Lover;Building+Scalable+Web+Apps;Always+Learning+🚀" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adityaxletscode&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
@@ -17,7 +17,7 @@ Full Stack Developer | Data Analytics Enthusiast | DSA Lover
 ## 🚀 About Me
 
 - 👨‍💻 B.Tech IT Student  
-- 💻 Building scalable MERN & Next.js apps  
+- 💻 MERN & Next.js Developer  
 - 📊 Exploring Data Analytics & AI  
 - 🧠 Strong in Data Structures & Algorithms  
 - 📫 Contact: **eaditya2003@gmail.com**
@@ -46,10 +46,6 @@ Full Stack Developer | Data Analytics Enthusiast | DSA Lover
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityaxletscode&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.vercel.app/?user=adityaxletscode&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaxletscode&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adityaxletscode&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=adityaxletscode&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
