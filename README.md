@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=111111&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Data+Analytics+Enthusiast;DSA+Lover;Building+Scalable+Web+Apps;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=111111&center=true&vCenter=true&width=700&lines=Advanced+Application+Engineer+%40+Accenture;Snowflake+Data+Engineer;Data+Analyst;Data+Analytics+Enthusiast;DSA+Lover;Always+Learning+🚀" />
 </p>
 
 <p align="center">
@@ -22,11 +22,13 @@
 
 ## 🚀 About Me
 
-- 👨‍💻 B.Tech IT Student  
-- 💻 MERN & Next.js Developer  
-- 📊 Exploring Data Analytics & AI  
-- 🧠 Strong in Data Structures & Algorithms  
-- 📫 Contact: **eaditya2003@gmail.com**
+* 💼 **Advanced Application Engineer (AEH) at Accenture**
+* ❄️ **Snowflake Data Engineer**
+* 📊 **Data Analyst**
+* 🤖 Exploring Data Analytics & AI
+* 🧠 Strong in Data Structures & Algorithms
+* 🚀 Passionate about data engineering, analytics, and building scalable solutions
+* 📫 Contact: **[eaditya2003@gmail.com](mailto:eaditya2003@gmail.com)**
 
 ---
 
